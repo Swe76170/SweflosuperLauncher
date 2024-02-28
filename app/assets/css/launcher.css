@@ -1124,6 +1124,9 @@ body, button {
     outline: none;
     transition: 0.25s ease;
 }
+#Lunex.settingsNavItem{
+    color: #9a5abe;
+}
 .settingsNavItem:hover,
 .settingsNavItem:focus {
     color: #c1c1c1;
